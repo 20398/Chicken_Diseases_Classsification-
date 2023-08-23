@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\research",
+    "\\src",
+    "\\src\\Classifiaction",
+    "\\src\\Classifiaction\\utils"
   ],
-  "SelectedNode": "\\template.py",
+  "SelectedNode": "\\research\\01_data_ingestion.ipynb",
   "PreviewInSolutionExplorer": false
 }
